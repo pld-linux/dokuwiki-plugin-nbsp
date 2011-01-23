@@ -9,6 +9,7 @@ Source0:	http://dev.mwat.de/dw/syntax_plugin_nbsp.zip
 # Source0-md5:	10c5b0f226652cd70af15246cae75401
 URL:		http://www.dokuwiki.org/plugin:nbsp
 BuildRequires:	rpmbuild(macros) >= 1.520
+BuildRequires:	unzip
 Requires:	dokuwiki >= 20050713
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
