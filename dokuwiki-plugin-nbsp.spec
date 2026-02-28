@@ -2,7 +2,7 @@
 Summary:	DokuWiki Syntax plugin for Non-breaking Space
 Name:		dokuwiki-plugin-%{plugin}
 Version:	20081122
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/WWW
 Source0:	http://dev.mwat.de/dw/syntax_plugin_nbsp.zip
